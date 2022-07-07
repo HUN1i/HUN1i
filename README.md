@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=%20임베디드/백엔드 개발자가 꿈인 강승훈입니다!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=%20 임베디드&fontSize=90)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
