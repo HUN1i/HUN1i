@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 <br><br><br><br>
 <h1>My skills</h1>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Html&logoColor=black)]
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)[JS]
+
 
 - 🔭 I’m currently working on Busan Software Meister Highschool
 - 🌱 I’m currently learning  html,css,js,python,microprocessor
