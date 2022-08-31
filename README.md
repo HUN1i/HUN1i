@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=%20강승훈입니다!&fontSize=90)<br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=skyblue&height=300&section=header&text=%20BSSM★&fontSize=80&fontColor=white)<br>
 
 <br><br><br><br>
 <h1>My skills</h1>
