@@ -1,9 +1,10 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#DCB3FC&height=300&section=header&text=Hi!&fontSize=150)
-<br><br><br><br>
+![header](https://capsule-render.vercel.app/api?type=soft&color=F9BAFD&height=250&section=header&text=Hi%20There😊&fontSize=70)
+
+<hr width:"90%">
 <h1>My skills</h1>
-<!-- [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List) -->
+ ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 
 - 🔭 I’m currently working on Busan Software Meister Highschool
