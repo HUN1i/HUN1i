@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeunghoonSeunghoon&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoonSeunghoon)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-😎 My name is Seunghoon, wannabe Embedded developer.<br>
+<h2>😎 My name is Seunghoon, wannabe Embedded developer.</h2><br>
 🤩 I am Busan Software Meister Highschool Student.<br>
 😯 If you want to find me at online, follow my [![Instagram](https://img.shields.io/badge/Instagram-FD7CEC?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/k.s.hoon_0328/)!!
 
