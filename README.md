@@ -20,4 +20,4 @@
 
 
 - 🔭 I’m currently working on Busan Software Meister Highschool
-- 🌱 I’m currently learning  html,css,js,python,microprocessor
+
