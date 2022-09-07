@@ -6,9 +6,8 @@
 <br><br>
 <h3>😎 My name is Seunghoon, wannabe Embedded developer.<br>
 🤩 I am Busan Software Meister Highschool Student.<br>
-😯 If you want to find me at online, follow my ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-</h3>![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+😯 If you want to find me at online, follow my </h3>
+<a href="https://www.instagram.com/k.s.hoon_0328/"><img src="https://img.shields.io/badge/C-7?style=flat-square&logo=c&logoColor=white"></a>
 
 <h1 style=text-align:center>I'm studying about...</h1>
  <img src="https://img.shields.io/badge/C-7?style=flat-square&logo=c&logoColor=white">
