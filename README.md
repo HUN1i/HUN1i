@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=F9BAFD&height=250&section=header&text=Hi%20There😆&fontSize=70)<br><br>
 (https://github-readme-stats.vercel.app/api?username=SeunghoonSeunghoon&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoonSeunghoon)]![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoonSeunghoon)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <h3>😎 My name is Seunghoon, wannabe Embedded developer.<br>
 🤩 I am Busan Software Meister Highschool Student.<br>
