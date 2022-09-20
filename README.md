@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=F9BAFD&height=250&section=header&text=Hi%20There😆&fontSize=70)<br><br>
 (https://github-readme-stats.vercel.app/api?username=SeunghoonSeunghoon&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoonSeunghoon)]![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghoonSeunghoon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats]<br><br>
 <h3>😎 My name is Seunghoon, wannabe Embedded developer.<br>
 🤩 I am Busan Software Meister Highschool Student.<br>
 😯 If you want to find me at online, follow me at <a href="https://www.instagram.com/k.s.hoon_0328/"><img src="https://img.shields.io/badge/Instagram-F557DA?style=flat-square&logo=instagram&logoColor=white"></a>!!</h3>
