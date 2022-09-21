@@ -1,7 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=F9BAFD&height=250&section=header&text=Hi%20There😆&fontSize=70)<br><br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghoonseunghoon&layout=compact)](https://github.com/useonguk/github-readme-stats)&nbsp;&nbsp;&nbsp;
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghoonseunghoon&layout=compact)](https://github.com/useonguk/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghoonseunghoon&show_icons=ocean&theme=prussian)
 <br><br>
 <h3>😎 My name is Seunghoon, wannabe Embedded developer.<br>
