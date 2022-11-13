@@ -23,5 +23,5 @@
  
  🔭 I’m currently studying on Busan Software Meister Highschool. 
 
-   Sw+
+   Sw+embedded
  
