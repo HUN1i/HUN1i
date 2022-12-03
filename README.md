@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/Python-A5BDFF?style=flat-square&logo=python&logoColor=black"> 
  <h1 style="text-align:center">It's me!!  </h1>
  
- 
+  
 
  
  🔭 I’m currently studying on Busan Software Meister Highschool. 
