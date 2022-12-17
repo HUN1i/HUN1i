@@ -7,7 +7,7 @@
 <h3>😎 My name is Seunghoon, wannabe Embedded developer.<br>
 🤩 I am Busan Software Meister Highschool Student.<br>
 😯 If you want to find me at online, follow me at <a href="https://www.instagram.com/k.s.hoon_0328/"><img src="https://img.shields.io/badge/Instagram-F557DA?style=flat-square&logo=instagram&logoColor=white"></a>!!</h3> 
-
+ 
 
 <h1 style=text-align:center>I'm studying about...</h1>
  <img src="https://img.shields.io/badge/C-7?style=flat-square&logo=c&logoColor=white">
