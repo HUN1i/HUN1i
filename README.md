@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
  <img src="https://img.shields.io/badge/HTML-F0903C?style=flat-square&logo=HTML5&logoColor=black">
  <img src="https://img.shields.io/badge/CSS-5087F5?style=flat-square&logo=CSS3&logoColor=black">
- <img src="https://img.shields.io/badge/node.JS-16C656?style=flat-square&logo=node.JS&logoColor=black">
+ <img src="https://img.shields.io/badge/spring-16C656?style=flat-square&logo=spring&logoColor=black">
  <img src="https://img.shields.io/badge/Python-A5BDFF?style=flat-square&logo=python&logoColor=black"> 
  <h1 style="text-align:center">It's me!!  </h1>
  
