@@ -23,9 +23,7 @@
  
  🔭 I’m currently studying on Busan Software Meister Highschool. 
 
-   Backend  
-1/26~2/2 travel
-    
+
   
   
  
