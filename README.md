@@ -1,12 +1,7 @@
-    
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=F9BAFD&height=250&section=header&text=Hi%20There!😆&fontSize=70)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghoonseunghoon&layout=compact)](https://github.com/SeunghoonSeunghoon/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghoonseunghoon&show_icons=ocean&theme=prussian)
+<h1>백엔드 개발자를 꿈꾸는 강승훈입니다.</h1>
 <br><br>
-<h3>😎 My name is Seunghoon, wannabe backend developer.<br>
-🤩 I am Busan Software Meister Highschool Student.<br>
-😯 If you want to find me at online, follow me at <a href="https://www.instagram.com/k.s.hoon_0328/"><img src="https://img.shields.io/badge/Instagram-F557DA?style=flat-square&logo=instagram&logoColor=white"></a>!!</h3> 
+<h2>열심히 살고 있어요:)
+<h3><a href="https://www.instagram.com/k.s.hoon_0328/"><img src="https://img.shields.io/badge/Instagram-F557DA?style=flat-square&logo=instagram&logoColor=white"></a></h3> 
 
 
   
