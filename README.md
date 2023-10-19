@@ -2,6 +2,8 @@
 <br><br>
 <h2>부산SW마이스터고에 재학 중이며, 열심히 살고 있어요:D</h2><br> 
 
+https://bento.me/hun1i
+
 
 <h2>portfolio</h2><br />
 한국어  - https://www.notion.so/s-backend-portfolio-1c5c8845b22347879ede91e9e6d19e21<br />
