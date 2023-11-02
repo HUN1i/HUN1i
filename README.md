@@ -11,6 +11,10 @@ https://bento.me/hun1i
 <h3><a href="https://www.instagram.com/s.hoon__e/"><img src="https://img.shields.io/badge/Instagram-F557DA?style=flat-square&logo=instagram&logoColor=white"></a></h3> 
 
 
+
+모던 자바스크립트 Deep dive 보고 있어요!
+
+
    
   
  
