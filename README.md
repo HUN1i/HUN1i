@@ -9,9 +9,6 @@ https://bento.me/hun1i
 
 
 
-모던 자바스크립트 Deep dive 보고 있어요!
-
-
    
   
  
